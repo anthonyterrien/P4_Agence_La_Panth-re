@@ -1092,4 +1092,19 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+    h4 {
+        font-size: 3.5vw;
+    }
+    .font-bold {
+        font-weight: 500;
+        font-size: 3.5vw;
+    }
+    p {
+        font-size: 3.5vw;
+    }
+}
+@media (max-width: 1300px) {
+    p {
+        font-size: 2vw;
+    }
 }
